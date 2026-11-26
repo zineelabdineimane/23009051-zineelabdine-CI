@@ -1,7 +1,7 @@
 # CI22 — Partenaires commerciaux du Maroc (clustering)
 
 **ENCG Settat — S7 Commerce international — Module BD & DS — Enseignant : A. Larhlimi — 2026–2027**
-**Étudiant(e) :** BELCAID Siham — **Code Apogée :** 23008686 — **Groupe :** CI
+**Étudiant(e) :** Zine El Abdine Imane — **Code Apogée :** 23009051 — **Groupe :** CI
 
 ## Problématique
 Peut-on regrouper les partenaires commerciaux du Maroc en groupes homogènes et stables selon la structure de leurs échanges (taille des flux, solde, croissance 2015→2023) ?
